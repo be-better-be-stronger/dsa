@@ -8,8 +8,8 @@ import java.util.Set;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("hello");
-		System.out.println(s3(2));
+		Integer a = null;
+		System.out.println(a);
 	}
 	
 	/*
